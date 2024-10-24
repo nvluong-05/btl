@@ -22,4 +22,4 @@
 
 ## Tài khoản login
 1.User name: admin
-2.Password: password123
+2.Password: 12345
